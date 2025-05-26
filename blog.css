@@ -1,0 +1,27 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body {
+    background-image: url(img/typ2tlo.png);
+    background-size: cover;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.title {
+    margin-top: 5%;
+    text-align: center;
+    line-height: 60px;
+}
+.container span {
+    font-weight: bold;
+}
